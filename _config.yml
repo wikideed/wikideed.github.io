@@ -1,0 +1,4 @@
+name: WikiDeed
+permalink: /:categories/:title/
+url: "wikideed.github.io"
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
