@@ -1,0 +1,172 @@
+/* General */
+
+body {
+    font: 300 17px/27px 'Arial', serif;
+    color: #4d4d4d;
+}
+
+#content, header, footer {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Arial",Georgia,"Times New Roman",Times,serif;
+	font-weight: 700;
+	color: #000;
+	margin: 20px 0;
+}
+
+.site-navigation {
+	font-family: "Arial",Georgia,"Times New Roman",Times,serif;
+	font-weight: 400;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 1.8em;
+}
+h3 {
+    font-size: 1.6em;
+}
+h4 {
+    font-size: 1.4em;
+}
+h5 {
+    font-size: 1.3em;
+}
+h6 {
+    font-size: 1.2em;
+}
+
+/* Content */
+
+blockquote {
+    border: 3px solid #e60000;
+    padding-left: 15px;
+}
+
+/* Home page */
+
+.home-image {
+    float: left;
+    height: auto;
+    margin: 0 20px 10px 0;
+    width: 250px;
+}
+
+@media only screen and (max-width: 400px) {
+	.home-image {
+	    margin: 0 0 15px 0;
+	    width: 100%;
+	}
+}
+
+/* Header */
+
+header {
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+.header-name {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0 0;
+}
+
+.header-image {
+	border-radius: 50%;
+	width: 110px;
+	margin: 10px 0 0;
+	height: 110px;
+}
+
+/* Footer */
+
+footer {
+    border-top: 1px solid #ccc;
+}
+
+/* Menu */
+
+nav ul {
+    padding: 0;
+}
+
+header .menu li {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 9px;
+}
+
+footer .menu li {
+    display: inline-block;
+    margin: 0;
+    padding: 3px 15px 5px 0;
+}
+
+.page-title {
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+.site-description {
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+b {
+	font-weight: 600;
+}
+
+i {
+	font-style: italic;
+}
+
+.volume-header {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.menu-volumes {
+    margin: -10px 0 8px;
+}
+
+/* Links */
+
+a {
+    color: #307ecc;
+    text-decoration: none;
+}
+
+.index-link {
+	color: #555 !important;
+}
+
+a:hover {
+    color: #307ecc;
+    border-bottom: 1px solid #307ecc;
+}
+
+.header-name a, .page-title a {
+	color: #444;
+}
+
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: #444 !important;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+	color: #444 !important;
+	border-bottom: 1px solid #444;
+}
