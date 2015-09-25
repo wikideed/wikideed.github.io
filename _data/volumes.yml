@@ -1,0 +1,11 @@
+- name: Volume 1
+  url: /volume-1/
+
+- name: Volume 2
+  url: /volume-2/
+
+- name: Volume 3
+  url: /volume-3/
+
+- name: Volume 4
+  url: /volume-4/
