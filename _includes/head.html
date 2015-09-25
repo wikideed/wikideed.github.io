@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<title>{{ page.title }} | WikiDeed</title>
+	<meta name="author" content="Jordan Tuwiner">
+	<meta name="description" content="{{ page.description }}">
+	{% if page.title %}
+    <meta content="article" property="og:type">
+	{% else %}
+    <meta content="website" property="og:type">
+	{% endif %}
+	{% if page.url %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{% endif %}
+	
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Merriweather:300,300italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href="/css/style.css" rel="stylesheet">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>
+<body>
+	<header itemtype="http://schema.org/WPHeader" role="banner" class="site-header" 	id="masthead">
+		<h3 class="header-name"><a href="/">The Code of Jewish Law</a></h3>
+		<p class="site-description">Redux / Reduced</p>
+		{% include nav.html %}
+	</header>
