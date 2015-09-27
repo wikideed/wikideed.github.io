@@ -75,6 +75,7 @@ blockquote {
     float: left;
     display: inline;
     width: 50%;
+    padding: 10px 0px;
 }
 
 .site-nav-footer {
@@ -82,7 +83,8 @@ blockquote {
     text-align: right;
     display: inline;
     width: 50%;
-    padding-top: 10px;
+    padding-top: 8px;
+    padding-bottom: 10px;
 }
 
 .site-nav-footer ul {
@@ -162,6 +164,9 @@ i {
 .menu-volumes {
     margin: -10px 0 8px;
 }
+
+.menu-volumes li a {
+    margin: 0px 6px; }
 
 /* Links */
 

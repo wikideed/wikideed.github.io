@@ -1,11 +1,14 @@
-- name: Table of Contents
-  url: /
+- name: T.O.C.
+  url: /table-of-contents/ 
 
 - name: Foreword
   url: /foreword/
   
 - name: Editor's Note
-  url: /editors-note/   
+  url: /editors-note/  
+  
+- name: Glossary
+  url: /glossary/    
   
 - name: Download PDF
   url: /wikideed.pdf 

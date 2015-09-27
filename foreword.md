@@ -17,17 +17,10 @@ I study a bit, with help, but this project I could do all on my own and at my ow
 
 Sure, some of the rules in *The Code Of Jewish Law* seem outdated—modern times have rendered them obsolete—but, most remain as true today as they have ever been. *The Code of Jewish Law* can be viewed as instructions, as opposed to doctrine. The list of day-to-day tasks and prohibitions seem endless. However, the list that comprises *The Code of Jewish Law* comes from a recognized and universally accepted source.   Much of my source came from on-line searches.
  
-Let’s be perfectly clear . . . That source is not me! It should be
-argued that there is always something lost in translation. This is
-even more the case in this instance. I am absolutely no authority, I
-was an average student, I can read NO Hebrew, I checked with no one
-and, I have no way of knowing if I translated or reduced it well. I
-took what I saw and made it an easier for me read.
- 
-It is a book of deeds and I simply took it as a task to make it
-simple. Some things simply seem worth doing; not all things need
-knowing.
- 
-In this case, that is the point.
+Let’s be perfectly clear . . . That source is not me! It should be argued that there is always something lost in translation. This is even more the case in this instance. I am absolutely no authority, I was an average student, I can read NO Hebrew, I checked with no one and, I have no way of knowing if I translated or reduced it well. I took what I saw and made it an easier for me read and got a good editor.
+
+It is a book of deeds and I simply took it as a task to make it simple for me. Some things simply seem worth doing; not all things need knowing.
+
+In this case, that is the point.  
  
 —Bruce Fogelson
