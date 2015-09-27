@@ -73,13 +73,20 @@ blockquote {
 
 .site-copyright {
     float: left;
-    width: 40%;
+    display: inline;
+    width: 50%;
 }
 
 .site-nav-footer {
-    float: right;
+    float: left;
     text-align: right;
-    width: 40%;
+    display: inline;
+    width: 50%;
+    padding-top: 10px;
+}
+
+.site-nav-footer ul {
+    margin: 0;
 }
 
 /* Header */
