@@ -1,0 +1,8 @@
+- name: About the Author
+  url: /about/  
+
+- name: Disclaimer
+  url: /disclaimer/  
+
+- name: Copyright
+  url: /copyright/

@@ -1,8 +1,15 @@
 <footer role="contentinfo" itemtype="http://schema.org/WPFooter" itemscope="itemscope" class="site-footer" id="colophon">
-	<nav class="site-navigation">
+	<nav class="site-navigation"
+         <div class="site-copyright">
+    &#169; Bruce Fogelson. All Rites Reserved.
+            </div>
+         <div class="site-nav-footer">
 		<ul class="menu">
-			
-		</ul>
+	       {% for menuitem in site.data.menufooter %}
+		<li><a href="{{ menuitem.url }}">{{ menuitem.name }}</a></li>
+	       {% endfor %}
+	    </ul>
+        </div>
 	</nav>  
 </footer>
 </body>

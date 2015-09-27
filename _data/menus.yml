@@ -4,17 +4,8 @@
 - name: Foreword
   url: /foreword/
   
-- name: Copyright
-  url: /copyright/
-  
-- name: Disclaimer
-  url: /disclaimer/
-  
 - name: Editor's Note
-  url: /editors-note/ 
+  url: /editors-note/   
   
 - name: Download PDF
   url: /wikideed.pdf 
-  
-- name: About
-  url: /about/     
